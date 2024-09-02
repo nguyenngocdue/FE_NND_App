@@ -12,22 +12,22 @@ const Navbar = () => {
       </div>
       <ul className="flex space-x-8 text-sm font-semibold">
         <li className="hover:text-blue-600">
-          <a href="#home">HOME</a>
+          <a href="/home">HOME</a>
         </li>
         <li className="hover:text-blue-600">
-          <a href="#about">ABOUT US</a>
+          <a href="/about">ABOUT US</a>
         </li>
         <li className="hover:text-blue-600">
-          <a href="#facilities">FACILITIES</a>
+          <a href="/facilities">FACILITIES</a>
         </li>
         <li className="hover:text-blue-600">
-          <a href="#team">TEAM</a>
+          <a href="/team">TEAM</a>
         </li>
         <li className="hover:text-blue-600">
-          <a href="#projects">PROJECTS</a>
+          <a href="/projects">PROJECTS</a>
         </li>
         <li className="hover:text-blue-600">
-          <a href="#locations">LOCATIONS</a>
+          <a href="/locations">LOCATIONS</a>
         </li>
       </ul>
       <button className="px-6 py-2 bg-blue-900 text-white rounded-full hover:bg-blue-700">
