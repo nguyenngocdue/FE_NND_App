@@ -51,7 +51,7 @@ const FooterSection = () => {
                 <a href="#facilities" className="text-sm text-gray-700 hover:text-blue-900 transition">
                   FACILITIES
                 </a>
-                <a href="#about" className="text-sm text-gray-700 hover:text-blue-900 transition">
+                <a href="#about-us" className="text-sm text-gray-700 hover:text-blue-900 transition">
                   ABOUT US
                 </a>
                 <a href="#locations" className="text-sm text-gray-700 hover:text-blue-900 transition">
